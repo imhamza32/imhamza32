@@ -45,11 +45,11 @@ Senior iOS Developer | 5+ years experience | Passionate about building amazing m
 ## 🏆 Projects
 Here are some of my apps:
 
-- [RapidFunnel Inc](https://apps.apple.com/pk/app/rapidfunnel-inc/id948835721) – iOS app built in **Objective-C** for business automation  
-- [A2i](https://apps.apple.com/us/app/a2i/id1564697928) – iOS app built from scratch with Swift & Firebase  
-- [Social Boom](https://apps.apple.com/nz/app/social-boom/id1587355589) – Live video calls & social interactions  
+- [RapidFunnel Inc](https://apps.apple.com/pk/app/rapidfunnel-inc/id948835721) – iOS app built in **Objective-C** for business automation
+- [A2i](https://apps.apple.com/us/app/a2i/id1564697928) – iOS app built from scratch with **Swift & Firebase**
+- [Social Boom](https://apps.apple.com/nz/app/social-boom/id1587355589) – **Live video calls** & social interactions
 - [Portfolio](https://imhamza32.github.io/) – My personal showcase of **45+ apps**
-
+- [App Links](https://github.com/imhamza32/imhamza32/blob/main/App%20Links.md) – **Full list** of application links
 ---
 
 ## 📊 GitHub Stats
