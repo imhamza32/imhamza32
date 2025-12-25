@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Munib Hamza
 
-Senior iOS Developer | 5+ years experience | Passionate about building amazing mobile apps  
+iOS Developer | 5+ years experience | Passionate about building amazing mobile apps  
 
 🚀 I love creating apps with **Swift, SwiftUI, Objective-C**, and exploring **Core ML APIs**.  
 💬 Ask me about **React Native, Firebase, and mobile app architecture**.  
